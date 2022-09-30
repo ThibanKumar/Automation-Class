@@ -52,7 +52,7 @@ public class CheckOut extends CheckOut_Objects {
 		//Summary
 		WebUI.verifyElementPresent(super.text_verify_item('Printed Dress'), 0)
 		WebUI.verifyElementPresent(super.text_verify_size('M'), 0)
-		WebUI.verifyElementPresent(super.text_verify_price('$27.00'), 0)
+		WebUI.verifyElementPresent(super.text_verify_price('$26.00'), 0)
 		WebUI.click(super.btn_proceed_address())
 
 		//Address
