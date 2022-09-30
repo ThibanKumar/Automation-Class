@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "4D57BB3CD5EDB4236E4CD734CD82ADD0",
+  "keywordClasses": [
+    {
+      "name": "commonUtils.CommonFunctions",
+      "keywordMethods": [
+        {
+          "name": "openBrowser",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "closeBrowser",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "7ACC92A7517F486533DDA22D086CC200",
+  "keywordClasses": [
+    {
+      "name": "registration.SignUp",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
