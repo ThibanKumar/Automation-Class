@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "FB789C4DB515FA62CACDCFBE77786312",
+  "keywordClasses": [
+    {
+      "name": "addToCart.CheckOut",
+      "keywordMethods": [
+        {
+          "name": "purchaseFlow",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
